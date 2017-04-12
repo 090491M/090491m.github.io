@@ -1,0 +1,14 @@
+<svg width="23" height="32" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>up-arrow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-504 -458)" figma:type="canvas">
+<g id="up-arrow" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(504 458)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 21.807 10.2747C 22.251 10.7188 22.251 11.4177 21.807 11.8617C 21.378 12.2907 20.664 12.2907 20.236 11.8617L 12.189 3.81475L 12.189 30.3697C 12.189 30.9887 11.697 31.4807 11.078 31.4807C 10.459 31.4807 9.951 30.9887 9.951 30.3697L 9.951 3.81375L 1.92 11.8607C 1.476 12.2897 0.761 12.2897 0.333 11.8607C -0.111 11.4167 -0.111 10.7177 0.333 10.2737L 10.285 0.32175C 10.714 -0.10725 11.428 -0.10725 11.856 0.32175L 21.807 10.2747Z"/>
+</defs>
+</svg>
